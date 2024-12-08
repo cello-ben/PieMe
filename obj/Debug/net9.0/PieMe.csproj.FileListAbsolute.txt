@@ -15,7 +15,6 @@
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/scopedcss/Components/Layout/MainLayout.razor.rz.scp.css
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/scopedcss/bundle/PieMe.styles.css
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/scopedcss/projectbundle/PieMe.bundle.scp.css
-/Users/celloben/Desktop/PieMe/obj/Debug/net9.0/compressed/jmlwavxg6f-khy4lop6wu.gz
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/compressed/3784589nyl-bqjiyaj88i.gz
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/compressed/gxhxr5ma5c-c2jlpeoesf.gz
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/compressed/l1jh6ckzi5-erw9l3u2r3.gz
@@ -76,3 +75,4 @@
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/PieMe.pdb
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/PieMe.genruntimeconfig.cache
 /Users/celloben/Desktop/PieMe/obj/Debug/net9.0/ref/PieMe.dll
+/Users/celloben/Desktop/PieMe/obj/Debug/net9.0/compressed/jmlwavxg6f-fb1ot51h24.gz

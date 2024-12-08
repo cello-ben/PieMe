@@ -5,3 +5,13 @@
 <h1>Want some pie?</h1>
 
 <p>One popular use case for Blazor is as a tool for creating internal dashboards. That’s the kind of situation where charts could come in very handy. As an exercise, I set about writing my own charting logic. Take a look!</p>
+
+<h3>Usage</h3>
+<code>
+    <p>PieMe previousMonthSpending = new PieMe();<br>
+    previousMonthSpending.Add("Supplies", 3.6) <span class = "comment">//params: sectionTitle, percentage</span><br>
+    previousMonthSpending.Add("Rent", 21.8)<br>
+    previousMonthSpending.Add("Insurance", 17.3)<br>
+    previousMonthSpending.Add("Payroll", 57.3)<br>
+    previousMonthSpending.Generate() <span class = "comment">//Values must add up too 100%; an exception will be thrown otherwise.</span></p>
+</code>

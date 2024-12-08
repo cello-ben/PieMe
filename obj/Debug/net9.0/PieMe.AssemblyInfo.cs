@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PieMe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea8fc226f8bcb69cf1dd665bf015086ce892b2ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1466cc15fa42ff91b7bb28aa2f729296c872c8d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PieMe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PieMe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
