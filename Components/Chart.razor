@@ -1,0 +1,19 @@
+<p>A dictionary was passed in with @percentages.Count elements.</p>
+
+@code
+{
+    double total = 0.0F;
+    [Parameter]
+    public Dictionary<string, double> percentages { get; set; }= new();
+    protected override void OnInitialized()
+    {
+        foreach (KeyValuePair<string, double> percentage in percentages)
+        {
+            total += percentage.Value;
+        }
+        if (total != 100F)
+        {
+            throw new Exception("Totals must add up to 100.");
+        }
+    }
+}
